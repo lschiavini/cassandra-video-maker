@@ -16,8 +16,7 @@ function start() {
 			'The history of'
 		]
 		const selectedPrefixIndex = readLine.keyInSelect(prefixes)
-		const selectedPrefixText = prefixes[selectedPrefixIndex]
-		return selectedPrefixText
+		return prefixes[selectedPrefixIndex]
 
 	}
 	console.log(content)
