@@ -1,0 +1,19 @@
+{
+  "name": "cassandra-video-maker",
+  "version": "1.0.0",
+  "description": "Automate youtube videos creatiom + publishing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lschiavini/cassandra-video-maker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lschiavini/cassandra-video-maker/issues"
+  },
+  "homepage": "https://github.com/lschiavini/cassandra-video-maker#readme"
+}
